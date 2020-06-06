@@ -30,6 +30,6 @@ Mass of heavier star is:
 Some things to note: You may have to manually set the range on the Y axis to make the plot more readable. Also if you choose to find the frequency using Lomb-Scargle method, make sure you discard garbage values and accept the one that appears to satisfy the data best.
 
 
-[# Derivation](Derivation_of_Mass_of_Stars_of_Binary_Star_System.pdf)
-[# Code](Analysis of Binary Star System GitHub.ipynb)
+# [Derivation](Derivation_of_Mass_of_Stars_of_Binary_Star_System.pdf)
+# [Code](Analysis of Binary Star System GitHub.ipynb)
 # Plots
