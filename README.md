@@ -35,5 +35,5 @@ Some things to note: You may have to manually set the range on the Y axis to mak
 # [Code](./Analysis%20of%20Binary%20Star%20System%20GitHub.ipynb)
 # [Plots](https://github.com/Bhavesh012/Binary-Star-System-Analysis/blob/master/Radial%20Component%20of%20Orbital%20Velocity%20Curve%20Fit%20Plot.png)
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](https://github.com/Bhavesh012/Binary-Star-System-Analysis/blob/master/Radial%20Component%20of%20Orbital%20Velocity%20Curve%20Fit%20Plot.png)
+
