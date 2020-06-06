@@ -33,7 +33,6 @@ Some things to note: You may have to manually set the range on the Y axis to mak
 # [Derivation](Derivation_of_Mass_of_Stars_of_Binary_Star_System.pdf)
 
 # [Code](./Analysis%20of%20Binary%20Star%20System%20GitHub.ipynb)
-# [Plots](https://github.com/Bhavesh012/Binary-Star-System-Analysis/blob/master/Radial%20Component%20of%20Orbital%20Velocity%20Curve%20Fit%20Plot.png)
-
-![GitHub Logo](https://github.com/Bhavesh012/Binary-Star-System-Analysis/blob/master/Radial%20Component%20of%20Orbital%20Velocity%20Curve%20Fit%20Plot.png)
+# [Plot]
+![Radial Component of Orbital Velocity Curve Fit Plot](https://github.com/Bhavesh012/Binary-Star-System-Analysis/blob/master/Radial%20Component%20of%20Orbital%20Velocity%20Curve%20Fit%20Plot.png)
 
