@@ -32,5 +32,5 @@ Some things to note: You may have to manually set the range on the Y axis to mak
 
 # [Derivation](Derivation_of_Mass_of_Stars_of_Binary_Star_System.pdf)
 
-# [Code](./blob/master/Analysis%20of%20Binary%20Star%20System%20GitHub.ipynb)
+# [Code](./Analysis%20of%20Binary%20Star%20System%20GitHub.ipynb)
 # Plots
